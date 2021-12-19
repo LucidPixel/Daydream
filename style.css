@@ -10,9 +10,9 @@ html{
 }
 
 body {
-    /*background: linear-gradient(-45deg, rgb(64, 115, 199,0.9), rgba(207,58,58, 0.9));*/
+    background: linear-gradient(-45deg, rgb(64, 115, 199,0.3), rgba(207,58,58, 0.3));
     background-size: 400% 400%;
-    /*animation: gradient 8s ease infinite;*/
+    animation: gradient 8s ease infinite;
     padding-top:35px;
     padding-bottom:35px;
     height:fit-content;
