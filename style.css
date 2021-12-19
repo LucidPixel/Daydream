@@ -83,7 +83,7 @@ body {
 
 .link {
     position: relative;
-    background-color: #000000EE;
+    background-color: #000000CC;
     color: var(--accentColor);
     border: solid var(--accentColor) 2px;
     border-radius: 10px;
